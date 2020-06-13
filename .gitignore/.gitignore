@@ -1,0 +1,4 @@
+*.exe
+.history/
+.vscode/
+.code-workspace
